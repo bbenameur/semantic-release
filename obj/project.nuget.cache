@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "8fw025jR31IpuEbWv7jdnb1Ss1fO2gqq3o/jf86jMicl/nxpWCknMqwRz8EZBhIM+DprmUplGeuoasAvkkBL5g==",
+  "success": true,
+  "projectFilePath": "C:\\Core Team\\src\\POC\\SR\\SR.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://cefrsvc-eurng01.ce.sdxcorp.net/NugetServer/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
