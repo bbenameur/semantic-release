@@ -2,5 +2,10 @@
   "name": "dotnet",
   "dependencies": {
     "semantic-release": "^21.1.2"
+  }, 
+  "release": {
+    "branches": ["main", "tests"]
   }
+  
+  
 }
