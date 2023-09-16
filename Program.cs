@@ -22,6 +22,6 @@ public class Employeevvvvv
 
 public class Employeevvvvvvvv
 {
-    // Employee fields, properties, methods and events are inherited
+    // Employee fields, properties, methods and events are inheritedvv
     // New Manager fields, properties, methods and events go here...
 }
